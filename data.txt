@@ -1,0 +1,167 @@
+Ne-Nima
+Kım-Kim 
+Nerede-Qayerda
+Nereden-Qayerdan
+Ne zaman-Qachon
+Neden-Nega
+Ne Kadar-Qancha
+Kaç-Necha, Qancha
+Ve-Va
+İle-Bilan
+Hem-Ham
+Ama-Ammo, Lekin, Biroq
+Fakat-Faqat
+Eğer-Agar
+Hakkında-Haqida
+Karşısında-Qarshisida, Ro'parasida 
+Sonra-Keyin 
+Arasında-Orasida 
+Etrafında-Atrofida 
+Arkasında-Orqasida 
+Aşağısında-Pastroqda 
+Altında-Tagida 
+Aşağı-Past 
+Yukarı-Yuqori, Tepa
+İçin-Uchun 
+Sayesinde-Orqali 
+Bu-Bu
+Bir soru sorabilir miyim?-Savol bersam maylimi?
+Lütfen, söyleyin..-Iltimos, ayting..
+Tabii ki, elbette- Albatta
+Tamam-Bo'pti mayli (gapni tugatish maqsadida ishlatiladi)
+Peki-ushbu so'z ham "Tamam" so'zi bilan bir xil ma'noni anglatadi.
+Görüşmek üzere-Ko'rishguncha 
+Yakında görüşürüz-Yaqinda ko'rishamiz, (tez vaqtlarda ko'rishamiz)
+Elveda-Alvido
+Nasılsınız?-Qalaysiz? 
+Nasılsın?-Qalaysan?
+Teşekkür ederim, iyiyim / fena değilim-Yaxshi rahmat! Yomon emas
+Fena değil-Yomon emas
+Önemli değil-Muhim emas
+Tomer_derslik-Jobirbek_Umarov
+Keyfiniz nasıl?-Kayfiyatingiz qalay?
+Sağlığınız nasıl?-Sog'lig'ingiz qalay? 
+Yeni bir şey yok-Hech qanaqa yangilik yo'q
+Her şey yolunda-Hammasi joyida
+Gününüz nasıl geçti? -Kuningiz qalay o'tdi?
+Teşekkür ederim-Rahmat! Minnatdorman 
+Çok teşekkür ederim-Katta rahmat
+Rica ederim-Arzimaydi
+Bir şey değil-Shart emas
+Önemli değil-Muhim emas 
+Affedersiniz-Kechirasiz 
+Affet-Kechir
+Özür dilerim-Uzr so'rayman 
+Ellerinize sağlık-Qo'llaringiz dard ko'rmasin (biron bir mazali ovqat tanavvul qilinayotgandagi gap)
+Ekmek-Non
+Suu-Suv
+Sofra-Dasturxon
+Kaşık-Qoshiq
+Mutfak-Oshxona
+Halı-Gilam
+Havlu-Sochiq
+Perde-Parda
+Uzun-Uzun
+Kısa-Qisqa
+Bardak-Stakan 
+Kalem-Qalam 
+Pantolon-Shim
+Kravat-Galustuk (bo'yinbog')
+Araba-Mashina
+Poşet-Paket
+Sandalye-stul
+Masa-Stol 
+Tavşan-Quyon
+Ses-Ovoz
+Mide-Oshqozon 
+İlaç-Dori
+Eczane-Apteka
+Hastane-Kasalxona
+Sıra-Navbat
+Gölge-Soya
+Fasulye-Loviya
+Çekirdek-Simichka 
+Çeşme-Chashma
+sınır-Chegara
+Sinir-Asab
+Kaşıntı-Qashinti
+Hayal-Orzu
+Beyaz-Oq
+Günah-Gunoh
+Yetişkin-Voyaga yetgan
+Valiz-Chamadon
+Asfalt-Asfalt 
+Şampuan-Shampun
+Seccade-Joynamoz
+Komik-Qiziq,kulguli
+Çivi-Miq
+Silgi-O'chirgich
+Çaydanlık-Choynak
+Çorap-Paypoq,naski
+Kuru çay -Quruq choy
+Güneş-Quyosh
+Sokak-Ko'cha
+Işık-Nur,yorug'lik,svet
+Hepsi-Hammasi
+Pantalon-Shim
+Domates-Pamidor
+Sigara-Sigaret
+Kılıf-G'ilof
+Kirpik-Kiprik
+Parmak-Barmoq
+Uzak-Uzoq
+Boğa-Buqa
+Lastik-Balon
+Poşet-Paket
+Tesbih-Tasbex
+Tişört-Futbolka
+Şoför-Haydovchi
+Şarj kablosu-Quvvatagich
+Fermuar-Zamok
+Saygı-Xurmat
+Gelmek-Kelmoq
+baba, ata-ota,  
+anne, ana-ona,  
+dede-buva,  
+büyük anne, baba anne, ana anne, nine-buvi,  
+oğul-o‘g‘il,  
+kız-qiz,  
+çocuk-bola,  
+evlat-farzand, 
+ağabey-aka,  
+kardeş, erkek kardeş-uka,  
+abla-opa,  
+bacı, kız kardeş-singil,  
+amca-amaki,  
+dayı-tog‘a,  
+teyze-xola,  
+hala-amma,  
+damat-kuyov,  
+yenge-kelinoyi, yanga,  
+enişte-pochcha,  
+koca-er,  
+karı-xotin,  
+yeğen-jiyan,  
+gelin-kelin,  
+bacanak-boja,  
+elti-ovsin 
+görümce-qaynsingil
+Saat-Soat
+Alkol-Alkagol
+Ampul-Lampochka
+Dikkat-Diqqat
+Bandrol-Etiket
+Festival-Festival
+Final-Final
+Gol-Gol (o'yindagi)
+Hayal-Hayol
+Harf-Harf
+Hol-Dahliz
+İhlal-Zarar,ozor
+İhmal-E'tiborsizlik
+İhtimal-Ehtimol 
+İptal-Bekor qilish
+İshal-ich ketishi
+İşgal-İshg'ol
+Kabahat-Ayb
+Kabul-Qabul

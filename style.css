@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #222;
+}
+
+.container {
+    position: relative;
+    width: 95%;
+    height: 500px;
+    border-radius: 15px;
+    margin: 50px auto;
+    background-color: #303030;
+    color: #fff;
+}
+#number_of_words {
+    background-color: #303030;
+}
+.container .text {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #303030;
+}
+
+#turkish {
+    background-color: #303030;
+    border-bottom: 1px solid #00bc8c;
+}
+
+#turkish, #uzbek {
+    height: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #303030;
+}
+
+.control {
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid #00bc8c; 
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #303030;
+
+}
+.control i {
+    font-size: 50px;
+    cursor: pointer;
+    background-color: #303030;
+
+}
+.control i:hover {
+    color: #00bc8c;
+}
