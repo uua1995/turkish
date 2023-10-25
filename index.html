@@ -5,9 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/61ceb144e8.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Turkish Dictionary</title>
 </head>
 <body>
+    <header>
+            <select name="grade" id="grade">
+                <option value="a1" selected>A1 saviye</option>
+                <option value="a2">A2 saviye</option>
+                <option value="b1">B1 saviye</option>
+                <option value="b2">B2 saviye</option>
+            </select>
+            <select name="unite" id="unite">
+                <option value="u1" selected>Unite 1</option>
+                <option value="u2">Unite 2</option>
+                <option value="u3">Unite 3</option>
+                <option value="u4">Unite 4</option>
+                <option value="u5">Unite 5</option>
+                <option value="u6">Unite 6</option>
+            </select>
+            <button onclick="selectGrade()">OK</button>
+    </header>
     <div class="container">
         
         <div id="turkish">

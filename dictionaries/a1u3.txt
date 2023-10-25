@@ -1,0 +1,161 @@
+Açık Büfe . Bufet
+Anne . Ona
+Aynı . Bir Xil
+Bale . Balet
+Bavul . Chemodan
+Beraber . Birga, barobar
+Biletçi . Chiptachi
+Bilgisayar oyunu . Kompyuter o’yini
+Borç . Qarz
+Boş Zaman . Bo’sh vaqt
+Büfe . Gazeta do’koni
+Cevap . Javob
+Dans . Raqs
+Değişik . Turli
+Dışarı . Tashqari
+Dizi . Serial
+Ekonomi . Iqtisod
+Erken . Erta
+Eski . Eski
+Eş . Turmush o’rtoq
+Ev hanımı . Uy bekasi
+Fabrika . Fabrika
+Farklı . Farqli
+Fikir . Fikr
+Film . Kino, Film
+Futbol . Futbol
+Futbol maçı . Futbol o’yini
+Geç . Kech
+Gezi . Sayr, sayohat
+Gitar . Gitara
+Gösteri . Ko’rsatuv
+Hafta içi . Hafta ichi
+Hava . Havo
+Hayat . Hayot
+Hazır . Tayyor
+Hediye . Sovg’a, hadiya
+Heyecanlı . Hayajonli
+Hiçbir zaman . Hech qachon
+Hukuk . Huquq
+İçeri . Ichkari
+Iş Yeri . Ish Joyi
+İş adamı . Biznesmen
+İşçi . Ishchi
+Kampus . Universitet shaharchasi
+Kanepe . Divan
+Kebap . Kabob
+Kızgın . Jaxldor
+Konser . Konsert
+Kulüp . Klub
+Litre . Litr
+Maç . Mach
+Memur . Ofitser
+Mp3 Çalar . Mp3 Player
+Müsait . Bo’sh (vaqtga nisbatan)
+Müşteri . Mijoz 
+Nefes . Nafas
+Normal . O’rtacha, normal
+Opera . Opera
+Öğlen . Tush payti
+Öğrenci Işleri . O’quvchi ishlari
+Pijama . Tungi kiyim
+Restoran . Restoran
+Sabahları . Ertalablari
+Sağlıklı . Sog’lom
+Sefer . Safar
+Sergi . Ko’rgazma
+Site . Sayt
+Şarkı . Qo’shiq, ashula
+Şiir . She’r
+Terlik . Uyda kiyiladigan oyoq kiyim (Tapochka)
+Tiyatro . Teatr
+Tur . Tur (sayohatga nisbatan TOUR)
+Tür . Tur, nav, tip
+Uygun . Mos
+Vapur . Poroxod
+Yalan . Tolg’on
+Yanlış . Yanglish, xato
+Yemekhane . Yemakxona
+Yeni . Yangi
+Yolcu . Yo’lovchi
+Yorum . Izoh (kommentariya)
+Yurt . Talabalar yotoqxonasi, yurt
+Zaman . Vaqt
+Açmak . Ochmoq
+Anlamak . Tushunmoq
+Bakmak . Qaramoq
+Banyo yapmak . Vanna Qabul Qilmoq
+Başlamak . Boshlamoq
+Bayılmak . Hushdan ketmoq
+Beslenmek . Tarbiyalanmoq, voyaga yetmoq
+Bilmek . Bilmoq
+Binmek . Minmoq
+Biriktirmek . Yig’moq
+Bitmek . Tugamoq
+Buluşmak . Topishmoq, ko’rishmoq
+Çalışmak . Ishlamoq
+Çıkmak . Chiqmoq
+Demek . Demoq
+Dinlemek . Tinglamoq
+Dinlenmek . Dam olmoq
+Dolaşmak . Aylanmoq
+Dönmek . Qaytmoq
+Durmak . Turmoq
+Duş almak . Cho’milmoq
+Fotoğraf çekmek . Rasmga olmoq
+Geçmek . O’tmoq
+Gezmek . Kezmoq, Sayr Qilmoq
+Girmek . Kirmoq
+Gitmek . Ketmoq
+Hazırlamak . Tayyorlamoq
+Hazırlanmak . Tayyorlanmoq
+Hoşlanmak . Bahramand bo’lmoq, yoqtirmoq
+Internete girmek . Internetga kirmoq
+Izlemek . Kuzatmoq
+Kahvaltı Etmek . Nonushta qilmoq
+Kalkmak . Turmoq, qo’zg’almoq
+Kalmak . Qolmoq
+Kapatmak . Yopmoq
+Kontrol etmek . Nazorat etmoq
+Konuşmak . Gaplashmoq
+Korkmak . Qo’rqmoq
+Koşmak . Yugurmoq
+Koymak . Qo’ymoq
+Kullanmak . Foydalanmoq, qo’llanmoq
+Nefret Etmek . Nafratlanmoq
+Okumak . O’qimoq
+Oturmak . O’tirmoq
+Oynamak . O’ynamoq
+Öğrenmek . O’rganmoq
+Özlemek . Sog’inmoq
+Para çekmek . Pul yechib olmoq
+Pişirmek . Pishirmoq
+Sanmak . Deb o’ylamoq
+Sevmek . Sevmoq
+Sıkılmak . Zerikmoq
+Sohbet etmek . Suhbat qilmoq
+Sormak . So’ramoq
+Söylemek . Demoq
+Spor yapmak . Sport bilan shug’ullanmoq
+Stres atmak . Stressdan chiqmoq
+Tanımak . Tanimoq
+Tanışmak . Tanishmoq
+Tekrar Etmek . Takror etmoq, takrorlamoq
+Temizlemek . Tozalamoq
+Tırmanmak . Tirmashmoq
+Uyumak . Uhlamoq
+Uzanmak . Uzanmoq
+Varmak . Bormoq
+Vermek . Bermoq
+Yapmak . Qilmoq
+Yardım etmek . Yordam qilmoq
+Yardım istemek . Yordam istamoq
+Yaşamak . Yashamoq
+Yatmak . Yotmoq
+Yazmak . Yozmoq
+Yemek . Yemoq
+Yorulmak . Charchamoq
+Yürümek . Yurumoq
+Yüzmek . Suzmoq
+Bol bol . Ko’p ko’p
+Inşallah .  İnshaolloh, Xudo xoxlasa

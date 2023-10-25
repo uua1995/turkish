@@ -1,0 +1,147 @@
+Aç . Och
+Açık . Ochiq
+Adres . Manzil, Adres
+Akşam . Kechqurun
+Alışveriş . Savdo.Sotiq
+Alışveriş merkezi . Savdo.Sotiq Markazi
+Alt . Ost
+Anahtar . Kalit
+Artı . Qo’shuv +
+Ay . Oy
+Banka . Bank
+Başarılı . Muvaffaqiyatli
+Bekâr . Turmush Qurmagan
+Bina . Bino
+Birçok . Bir Qancha
+Boş . Bosh (Pustoy)
+Bölü . Bo’luv :
+Bugün . Bugun
+Burada . Bu Yerda
+Bütün . Butun
+Cesur . Jasur
+Ciddi . Jiddiy
+Çalışkan . Mehnatkash
+Çarpı . Ko’paytiruv *
+Çirkin . Xunuk
+Çöp kutusu . Axlat Qutisi
+Çünkü . Chunki
+Dağınık . Tartibsiz (Neporyadichniy)
+Dar . Tor
+Dergi . Jurnal
+Dikkatli . E’tiborli
+Dikkatsiz . E’tiborsiz
+Doğum tarihi . Tug’ilgan sana
+Dolu . To’la
+Domates . Pomidor
+Dosya . Fayl, Papka
+Durak . Bekat (astanovka)
+Duvar . Devor
+Düzenli . Muntazam, Poryadochniy
+Eczacı . Dorixonachi
+Eğlenceli . Qiziqarli, Ko’ngilochar
+Eksi . Ayiruv .
+Evli . Oilali
+Fakir . Kambag’al
+Fark . Farq
+Fırın . Pechka, Non Sotadigan Do’kon
+Gazete . Gazeta
+Genç . Yosh (Odam)
+Genellikle . Odatda
+Geniş . Keng
+Güçlü . Kuchli
+Güçsüz . Kuchsiz
+Gün . Kun
+Gündüz . Kunduz
+Hafta sonu . Hafta oxiri
+Hasta . Kasal
+Hastane . Kasalxona
+Her . Har
+Her zaman . Har Doim
+Hızlı . Tez
+Içecek . Ichimlik
+Istasyon . Stansiya
+Iyi . Yaxshi
+Kaç . Necha
+Kaçıncı . Nechanchi
+Kantin . Kantin, Oshxona
+Kapalı . Yopiq
+Kasap . Qassob
+Kasiyer . Kassir, hisobchi
+Kat . Qavat (etaj)
+Kırmızı . Qizil
+Kıskanç . Rashkchi, qizg’onchiq
+Kibar . Xushmuomala
+Kilo . Kilogramm
+Kitaplık . Kutubxona
+Kolay . Oson
+Komik . Kulguli
+Konuşkan . Ezma, ko’p gap
+Koridor . Yo’lak, Koridor
+Kötü . Yomon
+Kuaför . Sartarosh (Ayol)
+Kuyumcu . Zargar
+Lamba . Lampa
+Mahalle . Mahalla
+Manav . Sabzavot do’koni
+Market . Market, do’kon
+Mutfak . Oshxona
+Mutlu . Baxtli, xursand
+Mutsuz . Baxtsiz
+Nerede . Qayerda
+Nesne . Ob’ekt
+Niçin . Nima uchun
+Ocak . O’choq, Yanvar
+Ofis . Ofis
+Orada . U yerda
+Öğleden sonra . Tushdan (obeddan) keyin
+Önemli . Muim
+Önemsiz . Nomuhim
+Pahalı . Qimmat
+Pastane . Qandolatxona
+Pembe . Pushti
+Postane . Pochtaxona
+Projektör . Proyektor
+Psikolog . Psixolog
+Resepsiyonist . Qabul bo’limidagi xodim
+Sabah . Ertalab
+Sakin . Sokin, osoyishta
+Sayı . Son
+Sehpa . Gazeta stoli
+Sekreter . Sekretar
+Semt . Guzar, massiv
+Sessiz . Sokin, kamgap
+Sıcak . Issiq
+Sıfat . Sifat
+Sinirli . Asabiy
+Sosyal . Sotsial
+Soyadı . Familiya
+Şehir . Shahar
+Şimdi . Hozir
+Şişman . Semiz
+Tabak . Idish.Tovoq
+Tarih . Tarix, sana
+Tatil . Ta’til, bayram (kanikul)
+Tehlikeli . Taxlikali
+Tembel . Yalqov, ishyoqmas, tambal
+Tezgâhtar . Sotuvchi
+Tuzlu . Tuzli
+Ucuz . Arzon
+Uzak . Uzoq
+Üst . Ust, tepa
+Var . Bor
+Yakın . Yaqin
+Yastık . Yostiq
+Yaş . Yosh
+Yaşlı . Yoshi katta, qari
+Yavaş . Sekin
+Yazı tahtası . Doska, yozuv taxtasi
+Yer . Joy
+Yıl . Yil
+Yiyecek . Yegulik
+Yoğun . Jadal
+Yok . Yo’q
+Yorgun . Horg’in
+Zamir . Olmosh
+Zayıf . Ozg’in
+Zengin . Boy
+Aramak . Qidirmoq, qo’ng’iroq qilmoq

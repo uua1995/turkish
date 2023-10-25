@@ -1,0 +1,123 @@
+Acele.shoshish 
+açma.ochish
+alkollü.alkogolli 
+anlam.tushuncha
+ayaküstü.oyoqda, on foot, пешком 
+ayran.ayron
+bagaj.yuk
+bakıcı.qarovchi 
+bedesten.yopiq bozor 
+briç.ko’prik
+çamaşır.kir kiyimlar 
+çatal (yiyecek).vilka 
+çıkış.chiqish 
+dekoratif.dekorativ 
+deneyim.tajriba 
+desen.shablon, naqsh
+döviz.chet el valyutasi 
+düğün.to’y
+ehliyet.haydovchilik guvohnomasi 
+ekip.jamoa
+geleneksel.an’anaviy 
+gözleme.kuzatuv 
+gürültü.shovqin
+güverte.палуба
+han.kichik mehmonxona 
+hat.chiziq
+hazır.tayyor 
+heyecan.hayajon 
+İhtiyaç.ehtiyoj 
+ilan.e’lon
+izin.izn, ruxsat 
+karar.qaror 
+katmer.qatlam 
+kestane.kashtan
+kokoreç.xasipga o’xshagan taom 
+konu.mavzu
+köfte.frikadelki
+kumpir.Печеный картофель
+lahmacun.laxmajun taomi 
+lazım.kerak, lozim
+martı.chayka (qush) 
+mutlaka.mutlaqo 
+nakit.naqd pul
+öncelik.ustuvorlik 
+öneri.taklif
+poğaça.bo’g’irsoq 
+rahat.qulay
+rakip.raqib
+refah.rohat, farovonlik 
+sanatçı.rassom
+sandal.qayiq 
+seyir.sayohat 
+sıkışık.tor
+sınır.chegara 
+simit.kunjutli non
+siyasetçi.siyosatchi 
+sözleşme.соглашение 
+süre.vaqt
+şekerleme.qandolat mahsulotlari 
+şiddet.shiddat
+şirket.shirkat 
+tavla.nard 
+tavsiye.tavsiya 
+tecrübe.tajriba 
+terlik.тапочка 
+tost.tost
+ud.ud (musiqa asbobi) 
+ünlü.mashhur
+vakıf.vaqf
+vatandaş.vatandosh 
+vezne.kassa
+yalan.yolg’on 
+yaygın.yoyilgan 
+yoğun.qalin, zich
+ara vermek.tanaffus 
+batmak.botmoq
+bilgi vermek.ma’lumot bermoq 
+bitirmek.bitirmoq
+borç vermek.qarz bermoq
+burs vermek.stipendiya bermoq 
+çekinmek.chekinmoq
+çözmek.to solve 
+dayanmak.chidamoq
+denemek.harakat qilmoq, ta’tib ko’rmoq
+destek vermek.qo’llab-quvvatlash 
+devam et.davom et
+dikiş dikmek.tikish qilmoq 
+dikkat etmek.diqqat qilmoq 
+doymak.to’ymoq
+farkında olmak.xabardor bo’lmoq 
+gecikmek.kech qolmoq
+gitar çalmak.gitara chalmoq 
+giyinmek.kiyinmoq
+göz kırpmak.ko’z qoqmoq 
+güvenmek.ishonmoq
+hoş görmek.toqat qilmoq
+hüküm vermek.hukum chiqarmoq 
+ıslık çalmak.hushtak chalmoq 
+ilgilenmek.qiziqmoq
+inanç.ishonch
+izlemek.tomosha qilmoq, izidan ketmoq 
+kaybolmak.yo’qolmoq
+kaymak.sirpanmoq 
+kımıldamak.qimirlamoq 
+közlemek.qo’rda pishirmoq 
+kredi almak.kredit olmoq 
+kutlama.bayram
+mola vermek.tanaffus qilmoq 
+neden olmak.sabab bo’lmoq 
+para bozdurmak.pul alishtirish, maydalash
+problem çıkarmak.muammo chiqarmoq 
+sığmak.sig’dirmoq
+sıkıntı çekmek.qiynalmoq 
+soluklanmak.nafas rostlamoq 
+şişirmek.shishirmoq
+takip etmek.amal qilmoq 
+uzatmak.uzaytirmoq
+ütülemek.dazmollamoq 
+vedalaşmak.xayrlashmoq
+yatıştırmak.tinchlantirmoq 
+yenmek.mag’lub etmoq 
+yetişmek.yetib olmoq 
+zannetmek.taxmin qilmoq

@@ -1,0 +1,116 @@
+Afiş.reklama 
+alan.yer, soha
+alışkanlık.o’rganib qolish 
+animasyon.animatsiya
+aşçı.oshpaz 
+atmosfer.atmosfera
+banka kartı.bank kartasi 
+belgesel.dokumentlaniy 
+biber.qalampir
+bilim kurgu.ilmiy-fantastik 
+bilimsel gerçek.ilmiy haqiqatlar 
+bulmaca.krossvord
+bulut.bulut 
+cisim.jism
+çığ.qor bo’roni, лавинa 
+çöpçü.axlatchi
+damlacık.tomchi 
+dedikodu.g’iybat 
+delikanlı.o’smir
+beslenmek.iste’mol qilmoq 
+deprem.zilzila
+dikey.vertical 
+doğa.tabiat
+doğa olayı.tabiat hodisalari 
+dolu.to’la
+dünya.dunyo
+elektrik enerjisi.elektr energiyasi 
+etraf.atrof
+fay.darz, разлом 
+fırın.tandir, pech 
+form.forma
+genişlik.kenglik
+gişe memuru.bilet sotuvchi 
+gökkuşağı.kamalak 
+gökyüzü.osmon
+göl.ko’l 
+güneş.quyosh
+Günlük.kundalik 
+hobi.hobbi 
+hokkabaz.fokuschi 
+hortum.tornado
+ılıman.iliq
+ihtimal.ehtimol, faraz 
+iklim.iqlim
+iskele.пирс
+karanlık.qorong’ulik 
+kırık.singan
+kilo.kilo 
+klasik.klassik
+koleksiyon.kolleksiya 
+komedi.komediya 
+korku.qo’rquv
+köşk.ko’shk 
+kum.qum
+kum fırtınası.qum bo’roni 
+kurak.quruq
+kuraklık.quruqlik
+manav.sabzavot sotuvchi 
+manzara.manzara, landshaft 
+meteorolojik.meteorologiya 
+müze.muzey
+nehir.daryo 
+nem.nam
+öğle yemeği.tushlik, obed 
+özet.qisqa mazmuni 
+polisiye.politsiya
+postacı.pochtalyon 
+romantic.romantik 
+rüzgâr.shamol
+sel.sel
+serin.salqin
+sihirbaz.sehr qiluvchi 
+sopa.дубинка
+şarkıcı.qo’shiqchi 
+Tamirci.ta’mirchi 
+teslim.taslim
+toz.chang
+toz fırtınası.chang bo’roni
+tropik yağmur.tropik yomg’ir
+tsunami.sunami
+tür.tur 
+vazo.vaza
+volkanik patlama.vulqon 
+yağmur.yomg’ir
+yatay.gorizontal
+yatılı okul.Школа-интернат 
+yazlık kıyafet.yozgi kiyim
+yer çekimi.yer tortishi, gravitatsiya 
+yer kabuğu.yer po’sti
+yıldırım.chaqmoq 
+yöresel.mintaqaviy 
+ziyaret.ziyorat
+batmak.botmoq
+biriktirmek.to’plamoq (pul) 
+çarpmak.urmoq, удар
+dağıtmak.tarqatmoq 
+dizilmek.tizilmoq 
+donmak.muzlamoq
+fırçalamak.shotkalamoq 
+horlamak.hurrak otmoq 
+imzalamak.imzo qo’ymoq 
+iyileşmek.yaxshilanmoq 
+karşılaşmak.qarshilashmoq 
+kaynamak.qaynamoq 
+küsmek.xafa bo’lmoq
+nişanlanmak.unashtirilmoq 
+pişirmek.pishirmoq 
+sallanmak.tebranmoq 
+söndürmek.so’ndirmoq
+sürtünmek.teginmoq, urush chiqarishga harakat qilish
+Şaşırmak.hayron qolmoq 
+tartmak.tortmoq, o’lchamoq 
+taşımak.tashimoq
+taşmak.toshmoq 
+yağmak.yog’moq 
+yapışmak.yopishmoq

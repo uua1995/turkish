@@ -1,0 +1,121 @@
+ahşap . yog’och 
+aniden . to’satdan
+asker . askar 
+Avrupa . Yevropa 
+baharatlı . spicy, пряный 
+bal . asal 
+bambu . bambuk 
+başbakan . bosh vazir 
+belediye . hokimiyat 
+bölge . mintaqa 
+bülbül . bulbul 
+çadır . chodir 
+çekirdek . yadro, semechki 
+çevre . atrof, muhit 
+çiftçi . dehqon 
+dağ . tog’ 
+dışkı . najas, кал 
+dizi . serial 
+doğum günü . tug’ilgan kun 
+döner . aylanadigan 
+eldiven . qo’lqop 
+eş . turmush o’rtoq 
+etkinlik . faoliyat 
+ev planı . uy rejasi 
+fal . fol 
+faydalı . foydali 
+ferah . keng 
+festival . festival 
+gelenek . an’ana 
+gösteri . tomosha 
+güneşli . quyoshli 
+hava . havo 
+hayal . orzu 
+ılık . ilik 
+izleyici . tomoshabin 
+jimnastik . gimnastika 
+kaban . palto 
+kampanya . kompaniya 
+kar . qor 
+katedral . ibodatxona 
+kazak . sviter 
+kıyı . qirg’oq 
+kıymet . qiymat
+klozet . shkaf 
+mahalli . mahalliy 
+makyaj . pardoz 
+merasim . marosim 
+mercimek . yasmiq, чечевица 
+mesai . siljish, extra
+metrekare . kv.metr 
+mısır . jo’xori 
+mimar . me’mor 
+mobilya . mebel 
+nehir . daryo 
+nemli . nam 
+oğul . o’g’il 
+okyanus . okean 
+ödeme . to’lov 
+padişah . sulton 
+pamuk . paxta 
+piramit . piramida 
+plaj . plyaj 
+robot . robot 
+romatizma . revmatizm 
+sağanak . kuchli yomg’ir 
+satılık . sotuv 
+seçim . tanlov 
+semt . tuman 
+serin . salqin 
+sınav . imtihon 
+sirk . sirk 
+sisli . tumanli 
+soslu . sousli 
+sörf . bemaqsad 
+stant . turish 
+şelale . sharshara 
+tapınak . ibodatxona 
+tarla . maydon, dala 
+taş . tosh 
+torun . nabira 
+tur . tur, sayohat 
+tuş . kalit
+vaat . va’da 
+vakit . vaqt 
+valiz . chamadon 
+vize . viza 
+yağmurluk . yomg’irda kiyiladigan plash, дождеви́к
+yanardağ ..vulqon 
+yoğunluk . zichlik 
+yosun . suv o’tlari, во́доросли 
+yöresel . mintaqaviy 
+yurt . yotoqxona
+anlaşmak . kelishmoq, rozi bo’lmoq 
+artmak . ortmoq 
+azalmak . ozaymoq 
+balık tutmak . baliq tutmoq 
+boyamak . bo’yamoq
+ çağırmak . chaqirmoq 
+çalıştırmak . ishlatmoq 
+çizmek . chizmoq 
+dalmak . sho’ng’imoq 
+değiştirmek . o’zgartirmoq 
+düzenlemek . tartibga solmoq 
+geçirmek . kechirmoq, o’tkazmoq 
+geçmek . o’tmoq 
+gerçekleştirmek . amalga oshirmoq 
+gezmek . kezmoq 
+görüşmek . ko’rishmoq 
+güneşlenmek . zagorat 
+ikna etmek . ishontirmoq 
+iptal olmak . bekor qilmoq 
+kaçmak . qochmoq 
+karar vermek . qaror qilmoq 
+kartopu oynamak . qor to’pi o’ynamoq 
+katılmak . qo’shilmoq, qatnashmoq 
+kayak yapmak . chang’ida uchmoq 
+kürek çekmek . eshkak eshmoq 
+tahmin etmek . taxmin qilmoq 
+takmak . biriktirmoq 
+tıraş olmak . taramoq, бритье 
+tükenmek . iste’mol qilinmoq

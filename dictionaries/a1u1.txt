@@ -1,0 +1,197 @@
+İSİMLER . Otlar
+Ad (isim) . Isim, nom
+Ağaç . Daraxt
+Alkol . Alkogol (spirt)
+Almanya . Germaniya
+Anneler Günü . Onalar kuni
+Araba . Mashina (avtomobil)
+Arkadaş . Do’st
+Avukat . Advokat
+Avusturya . Avstraliya  
+Az . Kam, oz
+Baba . Dada (dada)
+Bahçe . Bog’
+Balık . Baliq
+Banka . Bank
+Bardak . Stakan
+Bay . Janob
+Bayan . Xonim
+Bayram . Bayram
+Bebek . Chaqaloq
+Bey . Janob
+Bilet . Bilet, chipta
+Bilgisayar . Kompyuter
+Bulaşık . Idish tovoq
+Büro . Idora, byuro
+Büyük . Katta, buyuk
+Cami . Masjid, jome
+Cetvel . Lineyka, chizg’ich
+Ceviz . Yong’oq
+Çamaşır . Kir (material, kiyimlarga nisbatan)
+Çanta . Sumka
+Çarşı . Bozor
+Çay . Choy
+Çiçek . Gul
+Çin . Xitoy
+Çocuk . Bola
+Çok . Ko’p, juda
+Defter . Daftar
+Deniz . Dengiz
+Ders . Dars
+Doğum günü . Tug’ilgan kun
+Doktor . Shifokor
+Dolap . Shkaf
+Düğün . To’y
+Eczane . Dorixona, apteka
+Ekmek . Non
+Elbise . Ko’ylak (ayollarniki)
+Elma . Olma
+Erkek . Erkak
+Ev . Uy
+Fare . Sichqon
+Fındık . Yong’oq 
+Fırça . Chyotka
+Film . Film, Kino
+Fransa . Fransiya
+Futbolcu . Futbolchi
+Garson . Ofitsiant
+Göz . Ko’z
+Gül . Atirgul
+Güzel . Chiroyli, go’zal
+Hâl . Hol, Ahvol
+Halı . Gilam
+Hanım . Xonim
+Hastalık . Kasallik
+Havuç . Sabzi
+Hayal . Hayol
+Hemşire . Hamshira
+Hiç . Hech
+Ispanak . Ismaloq
+Izgara . 
+İdeal . Ideal
+İnek . Sigir
+İngiltere . Angliya
+İnsan . Inson, odam
+İspanya . Ispaniya
+İş . Ish
+İtalya . Italiya
+Japonya . Yaponiya
+Jeton . Jeton
+Jilet . Jilet
+Kadın . Ayol
+Kafe . Kafe
+Kahve . Qahva
+Kalabalık . Gavjum
+Kalem . Ruchka
+Kalp . Qalb, Yurak
+Kapı . Eshik
+Kedi . Mushuk
+Kız . Qiz
+Kira . Ijara
+Kişi . Kishi
+Kitap . Kitob
+Koltuk . O’rindiq
+Kore . Koreya
+Köpek . Kuchuk, it
+Köy . Qishloq
+Kuş . Qush
+Kutu . Quti (korobka)
+Kütüphane . Kutubxona
+Lale . Lola
+Limon . Limon
+Lokanta . Restoran
+Lütfen . Iltimos, marhamat
+Mağaza . Magazin
+Makas . Qaychi
+Masa . Stol
+Merdiven . Zina
+Meşgul . Band
+Metro . Metro
+Millet . Millat
+Misal . Misol
+Mühendis . Muhandis (Injener)
+Nar . Anor
+Nijerya . Nigeriya
+Numara . Raqam, Nomer
+Oda . Xona
+Orman . O’rmon
+Otel . Mehmonxona
+Otobüs . Avtobus
+Öğrenci . O’quvchi
+Öğretmen . O’qituvchi
+Ördek . O’rdak
+Paket . Paket
+Para . Pul
+Pardösü . Palto
+Park . Park
+Patates . Kartoshka
+Pencere . Deraza
+Petrol . Benzin
+Piyano . Piyanino
+Polis . Militsiya
+Portakal . Apelsin
+Postacı . Pochtachi
+Radyo . Radio
+Resim . Rasm
+Rol . Rol
+Roman . Roman
+Rusya . Rossiya
+Saat . Soat
+Saç . Soch
+Salon . Zal
+Sandalye . Stul
+Sembol . Simvol
+Seyahat . Sayohat
+Sıra . Navbat, parta
+Silgi . O’chirg’ich
+Sokak . Ko’cha
+Soru . Savol
+Sorun . Muammo
+Sözlük . Lug’at
+Suriye . Suriya
+Şarkıcı . Qo’shiqchi, ashulachi
+Şemsiye . Soyabon
+Şişe . Shisha
+Tahta . Doska
+Tavuk . Tovuq
+Telefon . Telefon
+Temiz . Toza
+Top . Koptok (top)
+Turist . Turist, sayohatchi
+Türkiye . Turkiya
+Uçak . Samolyot
+Uçurtma . Varrak
+Üzüm . Uzum
+Vagon . Vagon
+Vazo . Vaza
+Yabancı . Chet ellik, begona
+Yemek . Ovqat
+Yeni yıl . Yangi yil
+Yıldız . Yulduz
+Yüzük . Uzuk
+Zeytin . Zaytun
+Zürafa . Jirafa
+FİİLLER . Fe’llar
+Etmek . Etmoq, qilmoq
+Gelmek . Kelmoq
+Görüşmek . Ko’rishmoq
+Olmak . Bo’lmoq
+KALIP İFADELER . Qolip Ifodalar
+Affedersiniz . Kechirasiz
+Afiyet olsun . Yoqimli ishtaxa
+Bol şanslar . Omad yor bo’lsin
+Çok yaşa . Ko’p Yasha (Sog’ Bo’l  Aksa urgan insonga nisbatan)
+Geçmiş olsun . Ortda qolgani rost bo’lsin
+Görüşürüz / Görüşmek üzere . Ko’rishamiz, ko’rishguncha
+Güle güle . Xayr
+Günaydın . Xayrli tong
+Hoş bulduk . Xush ko’rdik
+Hoş geldin . Xush kelding
+Hoşça Kal . Yaxshi qol
+Lütfen . Iltimos, marhamat
+Merhaba . Salom
+Özür dilerim . Uzr so’rayman
+Rica Ederim . Arzimaydi, iltimos qilaman
+Tamam . Hop, mayli
+Tebrikler . Tabriklar
+Üzgünüm . Afsusdaman

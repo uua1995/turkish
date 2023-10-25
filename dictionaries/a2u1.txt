@@ -1,0 +1,206 @@
+ada . orol 
+akıllı . aqlli 
+altın . oltin 
+ana yemek . asosiy taomlar 
+apartman . kvartira 
+aptal . ahmoq 
+âşık . oshiq 
+aşk . sevgi 
+avuç . hovuch 
+baklava . paxlava 
+beyaz . oq 
+bez . mato 
+bıyık . mo’ylov 
+biber . qalampir 
+bol . ko’p 
+börek . bo’rek taomi 
+bulut . bulut 
+büfe . bufet 
+cadde . ko’cha 
+çikolata . shokolad 
+çim . o’t 
+çizgi . chiziq, iz 
+çöp . axlat (musor) 
+dalgalı . to’lqinli 
+damar . tomir 
+demet . to’plam 
+dengesiz . muvozanatsiz 
+dilim . tilim 
+dosdoğru . to’g’riga 
+dürüst . halol 
+düşünceli . tushunadigan, (вдумчивый) 
+düzenli . tartibli 
+ecza dolabı . dori shkafi 
+ela . ola 
+emir . buyruq 
+enerjik . baquvvat, energiyali 
+esprili . hazilkash 
+et . go’sht 
+faydalı . foydali 
+gece . kecha, tun 
+gerekli . kerakli 
+gökyüzü . osmon
+gözlük . ko’zoynak 
+güler yüzlü . ochiq yuzli 
+güvenilir . ishonchli 
+harika . ajoyib 
+hayvan . hayvon 
+huzurlu . tinch 
+ihtiyaç . kerak, ehtiyoj 
+ilaç . dori 
+inatçı . o’jar, qaysar 
+istek . talab, istak 
+kadayıf . ovqat nomi 
+kadeh . stakan 
+kap . idish 
+kapıcı . doorman (швейцар) 
+karabiber . qoraqalampir 
+karınca . chumoli 
+karizmatik . xarizmatik 
+karpuz . tarvuz 
+kâse . kosa 
+kekik . тимьян 
+kemer . kamar 
+kenar . chekka 
+kısım . qism 
+kıyma . qiyma 
+kızıl . qizil 
+klinik . klinika
+konu . mavzu 
+korkak . qo’rqoq 
+köfte . kofte (qiyma go’shtli taom) 
+kurabiye . pecheniye 
+kuşbaşı . po’stloq 
+kutsal . muqaddas 
+küp . kub 
+lahmacun . taom turi 
+levha . tablo, (пластина) 
+lezzetli . mazali 
+lokum . турецкие сладости 
+makarna . makaron 
+malzeme . mahsulot 
+maydanoz . петрушка 
+menü . menyu 
+meraklı . qiziquvchan 
+meslek . kasb 
+Mesut . baxtli
+miktar . miqdor 
+mutlaka . mutlaqo 
+müşteri . xaridor 
+müze . muzey 
+naz . noz.karashma 
+neşeli . quvnoq 
+otopark . avtopark 
+öneri . taklif 
+patlıcan . baqlajon 
+perde . parda 
+peynir . pishloq 
+pizza . pitsa 
+porsiyon . qism (порция) 
+profil . profil 
+prospektüs . prospekt 
+rüya . orzu, tush 
+rüzgâr . shamol 
+sabır . sabr 
+sakal . soqol 
+salata . salat 
+salyangoz . улитка 
+saman . somon 
+saygı . hurmat 
+sevimli . yoqimli 
+sıvı . suyuqlik 
+sifon . сифон 
+sigara . sigaret 
+sipariş . buyurtma 
+site . sayt 
+soğan . piyoz 
+soğuk . sovuq 
+sosyal paylaşım . ijtimoiy tarmoq 
+su . suv 
+şarap . vino 
+şeker . shakar 
+şirin . yoqimli 
+şiş . shish, six 
+tane . parcha 
+tariff . tarif 
+tatlı . shirin 
+tava . tova 
+tavsiye . tavsiya 
+tecrübe . tajriba 
+tek . bitta
+ten . teri 
+tramvay . tramvay
+tuvalet . hojatxona
+tuz . tuz 
+uyarı . ogohlantirish 
+veteriner . veterinar
+yağ . yog’ 
+yağmur . yomg’ir 
+yarar . foyda 
+yarışma . musobaqa 
+yaşam . hayot 
+yeterince . yetarli 
+yorgan . choyshab 
+yumurta . tuxum 
+yüksek . yuqori 
+zarar . zarar
+acele etmek . shoshilmoq 
+anlatmak . tushuntirmoq 
+bağlamak . ulamoq 
+basmak . chop etmoq, bosmoq 
+beğenmek . yoqmoq, ma’qul bo’lmoq 
+bıkmak . bezor bo’lmoq 
+çağırmak . chaqirmoq, taklif etmoq 
+çekmek . tortmoq, sudramoq 
+çırpmak . qalloqlamoq 
+dizmek . tizmoq, tekislamoq 
+doğramak . to’g’ramoq 
+doldurmak . to’ldirmoq 
+dökmek . to’kmoq, quymoq 
+duymak . eshitmoq, tuymoq 
+düşünmek . o’ylamoq 
+düzenlemek . tartibga solmoq 
+eklemek . qo’shmoq, solmoq 
+geç kalmak . kech qolmoq 
+göndermek . yubormoq, jo’natmoq 
+hapşırmak . aksirmoq 
+haşlamak . dimlab pishirmoq, qaynatmoq 
+hatırlamak . eslamoq 
+ısmarlamak . buyurtirmoq 
+ihmal etmek . e’tiborsiz bo’lmoq 
+ilave etmek . qo’shmoq, ilova qilmoq 
+ilerlemek . ilgari ketmoq 
+isyan etmek . isyon qilmoq 
+işaretlemek . belgilamoq
+kavga etmek . janjal qilmoq 
+kaynatmak . qaynatmoq 
+kızartmak . qizartirmoq 
+kızmak . qizimoq 
+kopmak . uzulmoq, uzmoq 
+oluşturmak . yaratmoq 
+önermek . taklif qilmoq 
+özen göstermek . qayg’urmoq, ehtiyot qilmoq 
+park etmek . parking 
+pişirmek . pishirmoq 
+rendelemek . qirg’ichdan chiqarmoq 
+saklamak . saqlamoq, yashirmoq 
+sıralamak . saralamoq, safga tizmoq
+süslemek . bezamoq 
+süzmek . suzmek 
+tamamlamak . to’ldirmoq 
+tarif etmek . tasvirlamoq 
+tükenmek . tugatmoq 
+usanmak . zerikmoq 
+uzatmak . uzatmoq 
+yağmak . yog’moq 
+itmek . itarmoq 
+merak etmek . hayratlanmoq 
+numaralandırmak . raqamlamoq, sanamoq 
+silmek . tozalamoq 
+yalan söylemek . yolg’on gapirmoq 
+yerleştirmek . joylamoq, terib qo’ymoq
+Afiyet olsun . Yoqimli ishtaha! 
+Çok yaşayın . Sog’ bo’ling! 
+Elinize sağlık . Qo’lingiz dard ko’rmasin 
+Hayırlı olsun . Xayrli bo’lsin! 
+Kolay gelsin . Omad tilaymiz!

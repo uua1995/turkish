@@ -1,0 +1,46 @@
+Abla . Opa
+Ağabey . Aka
+Ağız . Og’iz
+Aile . Oila
+Amca . Amaki
+Anadil . Ona til (asosiy til)
+Anahtar . Kalit
+Anaokulu . Bolalar bog’chasi
+Anneanne . Buvi (ona taraf)
+Babaanne . Buvi (ota taraf)
+Boyun . Bo’yin
+Burun . Burun
+Dayı . Tog’a
+Dede . Buva
+Diş . Tish
+Erkek kardeş . Uka
+Hala . Amma
+Havuz . Basseyn
+İlkokul . Boshlang’ich ta’lim
+Karı . Xotin
+Kız kardeş . Singil
+Koca . Er
+Kol . Qo’l
+Lise . Litsey
+Manto . Plash
+Mektup . Maktub, xat
+Omuz . Yelka
+Ortaokul . O’rta ta’lim
+Satranç . Shaxmat
+Şirket . Shirkat
+Teneffüs . Tanaffus
+Teyze . Xola
+Üniversite . Universitet
+Ütü . Dazmol
+Yabancı dil . Chet til
+Yaramaz . Quloq solmas
+Zevkli . Zavqli
+Almak . Olmoq
+Dans etmek . Raqsga tushmoq
+Çalmak . O’g’irlamoq
+Hissetmek . His qilmoq
+Yazmak . Yozmoq
+Göndermek . Jo’natmoq
+Oynamak . O’ynatmoq
+Öğretmek . O’rgatmoq
+Telefon etmek . Telefon qilmoq

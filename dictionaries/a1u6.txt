@@ -1,0 +1,83 @@
+Akıllı . Aqlli
+Akraba . Qarindosh
+Alan . Maydon
+Alt . Ost, Tag
+Arka . Orqa
+Aşağı . Pasti
+Boyun . Bo’yin
+Cadde . Ko’cha
+Cesur . Jasur
+Çene . Chakak
+Çevre . Atrof
+Çiftçi . Bog’bon
+Dış . Tashqi
+Düğün . To’y
+Emekli . Nafaqaxo’r
+Enişte . Pochcha
+Göl . Ko’l
+Grip . Gripp
+Güler yüzlü . Kular yuzli
+Halsiz . Holsiz
+İç . Ich
+İskele . Ko'prik
+Kalabalık . Gavjum
+Karşı . Qarama-qarshi
+Kibar . Xushmuomala
+Köprü . Ko’prik
+Köşe . Burchak
+Kulak . Quloq
+Kuzen . Amakivachcha
+Kütüphane . Kutubxona
+Lezzetli . Lazzatli
+Mahalle . Mahalla
+Manzara . Manzara
+Marka . Marka
+Mercimek çorbası . Yasmiq sho’rva (chichivichniy sup)
+Meydan . Maydon
+Nehir . Daryo
+Orta . O’rta
+Ön . Old (taraf)
+Parmak . Barmoq
+Patlıcan . Baqlajon
+Plan . Plan, reja
+Rapor . Hisobot
+Reçete . Retsept (yo’riqnoma)
+Renk . Rang
+Sağ . Sog’
+Salıncak . Halginchak (kacheyla)
+Sol . Chap
+Sözlük . Lug’at
+Şeker . Shakar
+Şikâyet . Shikoyat
+Tahmin . Tahmin
+Tarihi . Tarixiy
+Ten . Teri (badanga nisbatan)
+Terzi . Tikuvchi
+Teyze . Xola
+Üst . Ustki
+Vücut . Vujud, tana
+Yaramaz . Quloq solmas
+Yenge . Yanga
+Yukarı . Yuqori
+Ağrımak . Og’rimoq
+Anlaşmak . Kelishmoq
+Bayılmak . Xushdan ketmoq
+Beğenmek . Yoqtirmoq
+Danışmak . Maslahatlashmoq
+Değiştirmek . Almashtirmoq, o’zgartirmoq
+Dinlemek . Tinglamoq
+Gezmek . Kezmoq, sayr qilmoq
+Görüşmek . Ko’rishmoq
+Hissetmek . His qilmoq
+İlgilenmek . Qiziqmoq
+Kalkmak . Turmoq, qo’zg’almoq
+Kaşınmak . Qashinmoq, qichinmoq
+Katılmak . Qo’shilmoq, qatnashmoq
+Kızarmak. Qizarmoq
+Sallanmak. Tebranmoq
+Tanımak. Tanimoq
+Tansiyon ölçtürmek . Qon bosimi o’lchatmoq
+Tartılmak . O’lchanmoq
+Tedavi olmak. Davolanmoq
+Öksürmek . Yo’talmoq
+Ziyarete gelmek . Ziyoratga kelmoq

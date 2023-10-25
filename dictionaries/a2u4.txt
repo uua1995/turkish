@@ -1,0 +1,53 @@
+ambulans . tez yordam 
+asansör . lift 
+bilmece . jumboq 
+cankurtaran . qutqaruvchi 
+cin . jin 
+deve . tuya 
+diyar . diyor, yer 
+efsane . afsona 
+evliya . avliyo 
+fakir . kambag’al 
+fıkra . hazil 
+fırtına . bo’ron 
+hayran . hayron 
+inşaat . inshoat 
+işçi . ishchi 
+itfaiyeci . o’t o’churuvchi 
+kasaba . shahar 
+kasiyer . kassir 
+kaval . quvur 
+kıtlık . ochlik 
+konfeksiyon . kiyim, модели готовой одежды 
+köçek . ayollar kiyimini kiyib o’ynovchi erkak, кучек 
+macera . sarguzasht 
+merdiven . zinapoya 
+metrobüs . metro 
+nişanlı . unashtirilgan 
+ölümsüz . o’lmas
+ölümsüzlük . o’lmaslik 
+pansiyon . arzon mehmonxona, хостел 
+santral görevlisi . elektr stansiyasi ishchisi 
+sebze . sabzavot 
+sedefkâr . marvaridchi, перламутр 
+sihirli . sehrli 
+sürü . poda 
+tas . metal idish 
+tepe . tepalik 
+tezgâhtar . xizmatchi, клерк 
+uslu . yaxshi 
+vestiyer . гардероб 
+yaramaz . sho’x
+yem . yem, приманка 
+yönetmen . директор
+alay etmek . masxara qilmoq 
+anırmak . baqirmoq 
+boğulmak . g’arq bo’lmoq
+bozulmak . buzilmoq 
+fethetmek . zabt etmoq 
+fışkırmak . otilib chiqmoq 
+incitmek . ranjitmoq 
+oda tutmak . xonani ijaraga olish 
+şaşırmak . hayron bo’lmoq 
+şımartmak . erkalatmoq 
+yetiştirmek . katta qilmoq, o’stirmoq

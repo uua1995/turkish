@@ -1,0 +1,113 @@
+Ağustos . Avgust
+Ajanda . Kundalik
+Akıl . Aql
+Anma . Xotira
+Aralık . Dekabr
+Ateş . Olov, otash (isitma)
+Balayı . Asal oyi
+Biricik . Yagona, birgina
+Birlikte . Birgalikda
+Birliktelik . Birgalikdalik
+Boya . Bo’yoq
+Buçuk . Yarim
+Cimri . Ziqna
+Cuma . Juma
+Cumartesi . Shanba
+Çarşamba . Chorshanba
+Çeşitli . Xilma.Xil
+Çeyrek . Chorak, 4/1 qism
+Çorba . Sho’rva
+Çoşku . G'ayrat
+Dakika . Daqiqa
+Dilek . Tilak
+Dini . Diniy
+Dişçi . Tish shifokori
+Dolunay . To’lin oy
+Düğüm . Uzel, arqon
+Egemenlik . Suverenitet
+Ekim . Oktabr
+Evlilik . Turmush
+Eylül . Sentabr
+Galeri . Galeriya
+Gelecek . Kelajak
+Gençlik . Yoshlik
+Geveze . Ko’pgap
+Harf . Harf
+Hazırlık . Tayyorgarlik
+Haziran . Iyun
+Hece . Bo’g’in
+Heyecan . Hayajon
+Ilkbahar . Bahor oyi
+Kasım . Noyabr
+Kaza . Baxtsiz hodisa
+Kış . Qish
+Kurum . Muassasa
+Kutlama . Tabrik, nishonlash
+Kültür . Madaniyat
+Marş . Madhiya
+Mart . Mart
+Mavi . Ko’k  
+Mayıs . May
+Mevsim . Fasl
+Mezuniyet . Bitirish 
+Milli . Milliy
+Mola . Tanaffus
+Mor . Binafsharang
+Nice . Yaxshi
+Nikah . Nikoh
+Nisan . Aprel
+Odun . O‘tin
+Ömür . Umr
+Palto . Palto
+Pazar . Yakshanba, bozor
+Pazartesi . Dushanba
+Perşembe . Payshanba
+Program . Dastur
+Randevu . Navbat (uchrashuv) belgilash 
+Resmi . Rasmiy
+Rezervasyon . Bron (band) qilish
+Salı . Seshanba
+Saniye . Soniya
+Sarı . Sariq
+Saygıdeğer . Hurmatli
+Sevgili . Hurmatli
+Sonbahar . Kuz
+Sürpriz . Syurpriz
+Şubat . Fevral
+Temmuz . Iyul
+Toplantı . Majlis, yig’ilish
+Ulusal . Milliy
+Vakit . Vaqt
+Yaz . Yoz
+Yeşil . Yashil
+Yılbaşı . Yil boshi
+Yıldönümü . Yillik
+Zafer . Zafar
+Zorluk . Qiyinchilik
+Asmak . Osmoq
+Atlamak . Sakramoq
+Atmak . Otmoq
+Beklemek . Kutmoq
+Benzemek . O’xshamoq
+Devam etmek . Davom etmoq
+Dilemek . Tilamoq
+Doğmak . Tug’ilmoq
+Evlenmek . Turmush qurmoq
+Gecikmek . Kechikmoq
+Heyecanlanmak . Hayajonlanmoq
+Kapanmak . Yopilmoq
+Karşılamak . Kutib Olmoq
+Katılmak . Qo’shilmoq, qatnashmoq
+Korumak . Himoya qilmoq
+Kutlamak . Nishonlamoq
+Kutlu olmak . Qutlug’ bo’lmoq
+Öpmek . O’pmoq
+Satın almak . Sotib olmoq
+Sürmek . Davom etmoq
+Toplamak . Yig’moq
+Vedalaşmak . Xayirlashmoq, vidolashmoq
+Yakmak . Yoqmoq
+Yaşlanmak . Qarimoq
+Yenmek . Yengmoq
+Yıkamak . Yuvmoq
+Ziyaret etmek . Ziyorat qilmoq

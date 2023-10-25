@@ -1,0 +1,108 @@
+alaycı . beodob
+alışkanlık . odat 
+ampul . lampochka 
+as . as (bu ishning asi, ustasi) 
+ay . oy 
+bağımlılık . qaramlik 
+baklagil . dukkakli 
+ekinlar beslenme . oziqlanish, ovqatlanish 
+beyaz . oq 
+bilgin . olim 
+bolca . mo’l 
+bordo . bardoviy 
+buluş . uchrashuv 
+cömert . saxiy 
+çizgi film . multfilm 
+demokrasi . demokratiya 
+deney . tajriba 
+dük . gersog 
+düşes . герцоги́ня 
+egzersiz . jismoniy mashqlar 
+ekonomi . iqtisodiyot 
+emekli . nafaqaxo’r 
+erişkin . adult, взрослый 
+esnek . egiluvchan, гибкий 
+fare . sichqon 
+fırsatçı . fursatchi, оппортунист
+ gazetecilik. jurnalistika 
+gündüz . kunduz 
+hayalci . xayolparast 
+hırsız . o’g’ri 
+hizmetçi . xizmatkor 
+hükümdar . hukmdor 
+ışın . nur 
+idareci . ma’mur 
+ihtiyaç . kerak 
+iletişim . aloqa 
+ilginç . qiziqarli 
+ilk . birinchi 
+iskelet . skelet 
+kahkaha . qahqaha 
+kahraman . qahramon 
+kalsiyum . kalsiy 
+kanat . qanot
+kaplumbağa . toshbaqa 
+kemik . suyak 
+kolesterol . xolesterin 
+komutan . qo’mondon 
+konforlu . qulay 
+kongre . kongress 
+koyun . qo’y 
+kristal . kristall 
+kurnaz . ayyor 
+kuruyemiş . danakli yemaklar, cухофрукты 
+kültür . madaniyat 
+lacivert . lojuvard 
+lakap . laqab 
+lodos . janub 
+madde . element , modda 
+magazin . jurnal 
+mağaza . do’kon 
+meşgul . band 
+metre . metr 
+mizaç . mizoj 
+mucit . ixtirochi 
+muhteşem . muhtasham 
+müdür . mudir, direktor 
+müfettiş . taftishchi 
+nargile . кальян 
+okyanus . okean 
+ödül . mukofot 
+politika . siyosat 
+protein . oqsil 
+puan . ball 
+radyo dalgası . radio to’lqini 
+reçete . retsept (dorilar) 
+romancı . yozuvchi 
+rütbe . daraja 
+saf . toza 
+sahil . sohil, plyaj 
+saniye . soniya 
+sarı . sariq 
+satış . sotish 
+sene . yil 
+sıradan . oddiy, обычный 
+sinyal . signal 
+siyah . qora 
+şövalye . ritsar
+takım . jamoa 
+takma . taxallus 
+tavan . shift 
+tavşan . quyon 
+telsiz . radio, pация 
+toplantı . majlis 
+tür . tur 
+unvan . unvon 
+usta . usta 
+vasıta . vosita 
+yazar . yozuvchi 
+yolculuk . sayohat
+affetmek . kechirmoq 
+bastırmak . bostirmoq 
+icat etmek . ixtiro qilmoq 
+ilerlemek . davom etmoq 
+incelemek . imtihon qilmoq 
+kazanmak . g’alaba qozonmoq 
+keşfetmek . kashf qilmoq 
+mezun olmak . bitirmoq 
+yayımlamak . nashr qilmoq
