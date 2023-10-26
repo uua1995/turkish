@@ -13,6 +13,7 @@ async function asyncReadFile(filename) {
 
 var e, value;
 var eCh, valueCh;
+var eS, valueS;
 value = "a1"
 valueCh = "u1"
 
@@ -22,6 +23,12 @@ function selectGrade() {
     eCh = document.getElementById("unite");
     valueCh = eCh.value;
     showWord();
+}
+
+function selectSkill() {
+    eS = document.getElementById("skill");
+    valueS = eS.value;
+    window.location.href = valueS + ".html";
 }
 
 async function showWord() {
