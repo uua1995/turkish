@@ -8,7 +8,7 @@
 }
 
 header {
-    width: 60%;
+    width: 100%;
     height: 100px;
     margin: 0 auto;
     text-align: center;
@@ -17,19 +17,31 @@ header {
     display: flex;
     color: #fff;
 }
+@media screen and (max-width: 500px){
+    header {
+        display: block;
+    }
+    header div {
+        margin-top: 10px;
+    }
+}
 header select, button {
     margin-left: 5px;
     padding: 10px 15px;
     border-radius: 5px;
     color: #fff;
-    font-size: 18px;
+    /* font-size: 18px; */
     cursor: pointer;
+    user-select: none;
+
 }
 button {
     /* margin-left: 5px; */
     outline: none;
     border: none;
     background-color: #00bc8c;
+    user-select: none;
+
 }
 
 .container {
