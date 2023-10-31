@@ -38,6 +38,15 @@ async function showWord() {
     document.getElementById('def').innerHTML = word;
     });
 }
-    function sleep(ms) {
-        return new Promise(resolve => setTimeout(resolve, ms));
-    }
+function saveWord(){
+    let tr = document.getElementById('def').innerHTML;
+    let qr = document.getElementById('word').innerHTML;
+    // let savedWords = document.querySelector(".savedWords");
+    let sw = document.createElement("strong");
+    sw.innerText = tr + " " + qr;
+    document.getElementById("myDIV").appendChild(sw);
+    console.log(tr + " " + qr);
+}
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}

@@ -240,3 +240,15 @@ h3 {
     background-color: #111;
     overflow: hidden;
   }
+
+  #myDIV {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+  }
+  #myDIV strong {
+    text-align: center;
+    background-color: #303030;
+    margin-top: 10px;
+    font-size: 19px;
+  }
