@@ -43,7 +43,7 @@ function saveWord(){
     let qr = document.getElementById('word').innerHTML;
     // let savedWords = document.querySelector(".savedWords");
     let sw = document.createElement("strong");
-    sw.innerText = tr + " " + qr;
+    sw.innerText = qr + " - " + tr;
     document.getElementById("myDIV").appendChild(sw);
     console.log(qr + " - " + tr);
 }
