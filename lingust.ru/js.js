@@ -45,7 +45,7 @@ function saveWord(){
     let sw = document.createElement("strong");
     sw.innerText = tr + " " + qr;
     document.getElementById("myDIV").appendChild(sw);
-    console.log(tr + " " + qr);
+    console.log(qr + " - " + tr);
 }
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
