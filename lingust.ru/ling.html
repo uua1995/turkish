@@ -8,6 +8,11 @@
     <title>Document</title>
 </head>
 <body>
+    <div class="control" id="mySecondDiv">
+        <i class="fa-solid fa-shuffle" id="order" onclick="nextWord()"></i>
+        <i class="fa-regular fa-floppy-disk" onclick="saveWord()"></i>
+        <i class="fa-solid fa-delete-left"></i>
+    </div>
     <div class="container">
         
         <div id="turkish">
@@ -19,8 +24,8 @@
         <div class="control">
             <!-- <i class="fa-solid fa-arrow-left" onclick="showWord()"></i> -->
             <span id="number_of_words"> - / -</span>
-            <i class="fa-regular fa-floppy-disk" onclick="saveWord()"></i>
-            <i class="fa-solid fa-arrow-right" onclick="showWord()"></i>
+            
+            <i class="fa-solid fa-forward" onclick="showRandomWord()"></i>
         </div>
     </div>
     <div class="container" id="myDIV">

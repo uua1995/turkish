@@ -9,7 +9,7 @@ async function asyncReadFile(filename) {
     }
 }
 
-async function showWord() {
+async function showRandomWord() {
     const words = await asyncReadFile('lingust_words.txt');
     const defs = await asyncReadFile('lingust_words.txt')
     const num = document.getElementById("number_of_words");
@@ -38,6 +38,31 @@ async function showWord() {
     document.getElementById('def').innerHTML = word;
     });
 }
+
+let currentQuiz = -2;
+
+async function loadWords() {
+    const words = await asyncReadFile('lingust_words.txt');
+    const defs = await asyncReadFile('lingust_words.txt')
+    const num = document.getElementById("number_of_words");
+    const len = words.length;
+    num.innerHTML = currentQuiz + 1 + " / " + len / 2;
+    document.getElementById('word').innerHTML = words[currentQuiz]
+    document.getElementById('def').innerHTML = words[currentQuiz + 1]
+    console.log(words[currentQuiz]);
+}
+
+async function nextWord(){
+    const words = await asyncReadFile('lingust_words.txt');
+    const len = words.length;
+    currentQuiz += 2;
+    if (currentQuiz < len) {
+        loadWords();
+    } else {
+        alert("Tebrikler! Bu kelime dağarcığını tamamladınız!")
+    }
+}
+
 function saveWord(){
     let tr = document.getElementById('def').innerHTML;
     let qr = document.getElementById('word').innerHTML;
@@ -50,3 +75,12 @@ function saveWord(){
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+// function editOrder(){
+//         if (document.getElementById('order').style.color == 'white') {
+//             document.getElementById('order').style.color = "black";
+//         } else {
+//             // document.getElementById('order').style.color = "#fff";
+//             console.log("Qalay");
+//         }
+// }
