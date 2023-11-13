@@ -1,0 +1,592 @@
+Abone
+potpishik
+Acil
+srochno
+Bedel
+baxa,narx
+Borç
+qarz
+Boru
+truba
+Büyüklük
+razmer
+Büyüleyici
+Очаровательный
+Civar
+atrap
+Çöp
+musor
+Deneyim
+tajriybe, Опыт
+Depozito
+depazit
+Doğalgaz
+Tabiiy gaz
+Döşeme
+etaj
+Durum
+jaǵday, cитуация
+Eğitim
+tálim, oбразование
+Emlak
+kóshpes múlk
+Endişeli
+háwterli
+Etki
+tasır
+Evlilik
+nikoh, cвадьба
+Fatura- esap
+esap-faktura, Счет
+Fiyat
+baxa,цена
+Garip
+basqasha,Странный
+Günlük
+kúndelik
+Güvenlik
+qáwipsizlik
+Halat
+arqan, Веревка
+Ham
+ham, shiyki
+Isıtma
+ısıtpa
+Islak
+Влажный
+İhtiyaç
+kereklik,Необходимость
+İlan
+daǵaza
+İmdat
+járdem
+İş bölümü
+bólisiwi
+İşlem
+jarayon, Процесс
+Jandarma
+jandarma
+Kaban
+palto
+Kanat
+qanat, Крыло
+Kiralık
+ijara, Аренда
+Kombi
+isitiw buyimları, areston
+Konum
+mánzil, Место нахождения
+Lavabo
+rakovina
+Manzara
+kórinis, Вид
+Masrafsız
+biypul, pulsız, Бесплатно
+Mevki
+lawazım, Должность
+Muhit
+turar jer
+Müstakil
+jeke, Частный
+Nezih
+Tartimli, jaqsı, Приличный
+Ödeme
+Tólem, Оплата
+Ömür
+ómir
+Pazarlık
+bazarlıq,sawda
+Pil
+batareya, Батарея
+Sahip
+baslıq, Владелец
+Satır
+siziq, Линия
+Satış
+Продажи
+Sızıntı
+Утечка
+Sigorta
+Страхование
+Sözleşme
+Соглашение
+Şofben
+suw ısıtqısh
+Tarife
+retsept
+Taşınma
+tanısıw
+Temel
+основа
+Tesisatçı
+Santexnik
+Tuhaf
+ǵalatı, Странный
+Tüketim
+qabıllaw, jew, Потребление
+Uygun
+mas, Подходящее
+Vana
+shıǵıwı
+Vergi
+salıq, nalog
+Yakınlık
+Близость
+Yuva
+uya, гнездо
+Zam
+pribavka, aqshanıń ústine qosılw
+Fiiller
+Fiiller
+Acele etmek
+asıǵıw, Торопиться
+Akıtmak
+aqqızıw, aǵızıw
+Atıştırmak
+gazak,zakuska
+Ayırmak
+ayırıw,
+Benzemek
+uqsaw
+Boşaltmak
+bosatıw
+Bozulmak
+buzılıw,
+Değerlendirmek
+bahalaw
+Doldurmak
+toltırıw
+Isınmak
+isiniw, Разогревать
+İlerletmek
+aldınǵa háreket etıw
+Kopmak
+ekige ayrılıw, siniw
+Kurtulmak
+qutılıw
+Önermek
+usınıs etiw, Предлагать
+Patlamak
+partlaw, Лопаться
+Sığmak
+baspana alıw
+Sıkışmak
+tıǵılıw, qısılıw
+Sızdırmak
+aǵıw
+Söndürmek
+óshiriw
+Takip etmek
+gúzetiw
+Tartışmak
+urısıw, tartısıw
+Telaşlanmak
+háweterleniw
+Tercih etmek
+abzal kóriw
+Teslim etmek
+tapsırıw
+Uğraşmak
+háreket qiliw, Стремиться
+Yansıtmak
+bayanlaw, aks ettırısh
+Yardımcı olmak
+járdemshi bolıw
+Yığmak
+jiynaw
+Zenginleşmek
+bay bolıw, bayıw,
+Başının etini yemek
+basın jew, miyin jew
+Kalbini fethetmek
+Yurakni zabt etish
+Abone
+potpishik
+Acil
+srochno
+Bedel
+baxa,narx
+Borç
+qarz
+Boru
+truba
+Büyüklük
+razmer
+Büyüleyici
+Очаровательный
+Civar
+atrap
+Çöp
+musor
+Deneyim
+tajriybe, Опыт
+Depozito
+depazit
+Doğalgaz
+Tabiiy gaz
+Döşeme
+etaj
+Durum
+jaǵday, cитуация
+Eğitim
+tálim, oбразование
+Emlak
+kóshpes múlk
+Endişeli
+háwterli
+Etki
+tasır
+Evlilik
+nikoh, cвадьба
+Fatura- esap
+esap-faktura, Счет
+Fiyat
+baxa,цена
+Garip
+basqasha,Странный
+Günlük
+kúndelik
+Güvenlik
+qáwipsizlik
+Halat
+arqan, Веревка
+Ham
+ham, shiyki
+Isıtma
+ısıtpa
+Islak
+Влажный
+İhtiyaç
+kereklik,Необходимость
+İlan
+daǵaza
+İmdat
+járdem
+İş bölümü
+bólisiwi
+İşlem
+jarayon, Процесс
+Jandarma
+jandarma
+Kaban
+palto
+Kanat
+qanat, Крыло
+Kiralık
+ijara, Аренда
+Kombi
+isitiw buyimları, areston
+Konum
+mánzil, Место нахождения
+Lavabo
+rakovina
+Manzara
+kórinis, Вид
+Masrafsız
+biypul, pulsız, Бесплатно
+Mevki
+lawazım, Должность
+Muhit
+turar jer
+Müstakil
+jeke, Частный
+Nezih
+Tartimli, jaqsı, Приличный
+Ödeme
+Tólem, Оплата
+Ömür
+ómir
+Pazarlık
+bazarlıq,sawda
+Pil
+batareya, Батарея
+Sahip
+baslıq, Владелец
+Satır
+siziq, Линия
+Satış
+Продажи
+Sızıntı
+Утечка
+Sigorta
+Страхование
+Sözleşme
+Соглашение
+Şofben
+suw ısıtqısh
+Tarife
+retsept
+Taşınma
+tanısıw
+Temel
+основа
+Tesisatçı
+Santexnik
+Tuhaf
+ǵalatı, Странный
+Tüketim
+qabıllaw, jew, Потребление
+Uygun
+mas, Подходящее
+Vana
+shıǵıwı
+Vergi
+salıq, nalog
+Yakınlık
+Близость
+Yuva
+uya, гнездо
+Zam
+pribavka, aqshanıń ústine qosılw
+Akciğer
+okpe
+Antrenman
+trener tárepinen zaryadka isletiw, trening
+Alerji
+alergıya
+Araştırma
+ızertlew jumısı
+Bağımlı
+qaram, adetlenıp qalıw
+Bağırsak
+ıshek
+Bağırsak solucanı
+ıshek qurtı
+Boyut
+kólemi
+Bakteri
+bakterıya
+Belirti
+sımptom
+Besin
+ozuqa
+Beyin
+mıya
+Bilinç
+ong, sana
+Böbrek
+pochka(adam organi)
+Bulantı
+kongıl aynıshı
+Bulaşıcı
+jugımlı
+Burun akıntısı
+tumov
+Çürük
+shirik, cгнивший
+Dal
+ shaqa
+Dalak
+talaq, cелезенка(adam organi)
+Damar
+tamır
+Dezenfektan
+dezınfektsıyon
+Dinç
+kúshli, energiyalı
+Döküntü
+qaldıqlar
+Dürtü
+ımpuls(turtkı)
+Dönem
+dáwir
+Empati
+hamdartlık
+Felç
+ falaj, паралич
+Gerekçe
+ sebep, причина
+Görüş
+pikir, мнение
+Gerginlik
+kuchlanısh
+Gıda
+azıq
+Hamur
+ qamır
+Hormon
+ garmon
+Hücre
+kletka ,hujayra
+Issız
+ jumıssız
+İğne
+ıgna
+İltihap
+yallıglanısh
+İshal
+dıyareya
+İştah
+ıshtaha
+Kan akışı
+qan agıwı
+Kan dolaşımı
+qan aylanıwı
+Karaciğer
+bawır
+Kalite
+sıpat ,качество
+Kaplıca
+ kurort, spa
+Karbonhidrat
+ uglevod
+Kas sistemi
+mushak sısteması
+Keyif
+ keypiyat
+Kısım
+ bólim, часть
+Kolesterol
+ xolestirin
+Menenjit
+menıngıd
+Metobolizma
+metabolızma
+Mide
+asqazan
+Nezle
+suwıq aliw
+Kuşkusuz
+shubhasiz, без сомнений
+Mantık
+ logika
+Mecburiyet
+ majburiyat
+Molekül
+ molekuka
+Obezite
+semizlik, ожирение
+Obur
+ обжора, ashkózlik
+Odun
+aǵash, древесина
+Ortalama
+ ortasha
+Oyun
+ oyın, игра
+Öneri
+usınıs, предложение
+Özgün
+original,оригинальный
+Pastörize
+pasterızatsıyalangan
+Ruhsal
+ruwxıy
+Sakatlıq
+nogıronlık
+Salgın
+epıdemıya
+Saplantı
+taqıb qılısh
+Solunum
+dem alıw
+Sürkleyici
+awır kesellık
+Şuur
+sana
+Süreç
+dawamlı
+Takıntılı
+bagımlı
+Toksin
+ taksın
+Üniform
+forma
+Pişmanlık
+ púshaymanlıq
+Rapor
+ esabat
+Reçete
+ retsept
+Sıvı
+ suyıqlıq, жидкость
+Şefkat
+mehribanlıq, доброта
+Şifa
+shıpa, выздоровление
+Tansiyon
+ davlenye
+Tedavi
+emlew ,лечение
+Tedbir
+saqlanıw, предосторожность
+Tıp
+ meditsina
+Tutsak
+ mahbus, заключенный
+Uğur
+hayırlı
+Uzman
+ mutaxassis ,эксперт
+Virüs
+ virus
+Yaratıcılık
+ ijodkorlik, творческий
+Yaşam
+ómir ,жизнь
+Yaygın
+ keń tarqalǵan, широко распространенный
+Yayınevi
+ baspaxana(jurnal,gazeta),
+Zencefil
+ zanjabil, имбирь
+Artırmak
+ósiw,artıw, увеличивать
+Acımak
+qaygırıw
+Bulaşmak
+jugıw
+Burkmak
+burisiw
+Çoğalmak
+tarqalıw, kobeyıw
+Kaçınmak
+qashıw
+Ölçmak
+olshew
+Temas kurmak
+baylanıs ornatıw
+Tüketmek
+qabıllaw
+Yayılmak
+jayılıw
+Batmak
+ shógiw
+Benimsemek
+ qabıl qiliw
+Beslenmek
+awqatlanıw, awqatlandırıw, кормить
+Gerçekleşmek
+ámelge asıw
+Görev almak
+juwapkershilikti moynına alıw,  взять на себя ответственность
+Hedeflemek
+ maqset, цель
+İkna etmek
+isendiriw, убеждать
+İzne çıkmak
+dem alısqa shıǵıw,  взять отпуск
+Kavuşmak
+ushrasıw, встретиться
+Keşfetmek
+oylap tabıw,kashf qilish обнаружить
+Kutlamak
+nishanlaw, bayramlaw праздновать
+Not etmek
+jazıp alıw, esletpe записывать
+Odaklanmak
+ dıqqat, dıqqattı jámlew
+Saklanmak
+ jasırınıw
+Yüreklendirmek
+xoshametlew, поощрять
+Açıklığa kavuşmak
+ anıq bolıw
+Ayakta kalmak
+ turıw, ayaqta turıp qalıw
+Dizini dövmek
+ hádden tis púshayman jew
+Katkı maddesi
+qosımsha, добавка
+Yaşam koçu
+ ómir ustazı, тренер по жизни

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/61ceb144e8.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="control" id="mySecondDiv">
+        <i class="fa-solid fa-shuffle" id="order" onclick="nextWord()"></i>
+        <i class="fa-regular fa-floppy-disk" onclick="saveWord()"></i>
+        <i class="fa-solid fa-delete-left"></i>
+    </div>
+    <div class="container">
+        <div id="turkish">
+            <p class="text" id="word">Merhaba!</p>
+        </div>
+        <div id="uzbek">
+            <p class="text" id="def">Salom!</p>
+        </div>
+        <div class="control">
+            <!-- <i class="fa-solid fa-arrow-left" onclick="showWord()"></i> -->
+            <span id="number_of_words"> - / -</span>
+            
+            <i class="fa-solid fa-forward" onclick="showRandomWord()"></i>
+        </div>
+    </div>
+    <div class="container" id="myDIV">
+
+    </div>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> -->
+    <script>
+        async function asyncReadFile(filename) {
+    try {
+    const response = await fetch(filename);
+    const contents = await response.text();
+    const words = contents.split(/\r?\n/);
+    return words;
+    } catch (err) {
+    console.log(err);
+    }
+}
+
+async function showRandomWord() {
+    const words = await asyncReadFile('umu_b1.txt');
+    const defs = await asyncReadFile('umu_b1.txt')
+    const num = document.getElementById("number_of_words");
+    const len = words.length;
+
+    var randomIndex = Math.floor(Math.random()* (len / 2)); 
+    var randomIndex2 = randomIndex - 1;
+
+    if(randomIndex % 2 == 0){
+       if(randomIndex == (len / 2)){
+        randomIndex  = randomIndex - 1;
+        randomIndex2 = randomIndex - 1
+       }else{
+        randomIndex  = randomIndex + 1;
+        randomIndex2 = randomIndex - 1
+       }
+    }
+
+    let word, def;
+    num.innerHTML = randomIndex + 1 + " / " + len / 2;
+    word = words[randomIndex];
+    def = defs[randomIndex2];
+    document.getElementById('word').innerHTML = def;
+    document.getElementById('def').innerHTML = "";
+    sleep(2000).then(() => { 
+    document.getElementById('def').innerHTML = word;
+    });
+}
+
+let currentQuiz = -2;
+
+async function loadWords() {
+    const words = await asyncReadFile('umu_b1.txt');
+    const defs = await asyncReadFile('umu_b1.txt')
+    const num = document.getElementById("number_of_words");
+    const len = words.length;
+    num.innerHTML = currentQuiz + 1 + " / " + len / 2;
+    document.getElementById('word').innerHTML = words[currentQuiz]
+    // document.getElementById('def').innerHTML = words[currentQuiz + 1]
+    document.getElementById('def').innerHTML = "";
+    sleep(2000).then(() => { 
+        document.getElementById('def').innerHTML = words[currentQuiz + 1];
+    });
+    console.log(words[currentQuiz]);
+}
+
+async function nextWord(){
+    const words = await asyncReadFile('umu_b1.txt');
+    const len = words.length;
+    currentQuiz += 2;
+    if (currentQuiz < len) {
+        loadWords();
+    } else {
+        alert("Tebrikler! Bu kelime dağarcığını tamamladınız!")
+    }
+}
+
+function saveWord(){
+    let tr = document.getElementById('def').innerHTML;
+    let qr = document.getElementById('word').innerHTML;
+    // let savedWords = document.querySelector(".savedWords");
+    let sw = document.createElement("strong");
+    sw.innerText = qr + " - " + tr;
+    document.getElementById("myDIV").appendChild(sw);
+    console.log(qr + " - " + tr);
+}
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+    </script>
+</body>
+</html>
