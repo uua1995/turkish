@@ -252,6 +252,10 @@ h3 {
     margin-top: 10px;
     font-size: 19px;
   }
+
+  #myDiv span {
+    font-size: 13px!important;
+  }
   #mySecondDiv {
     position: relative;
     margin: 10px auto 0;
@@ -261,6 +265,7 @@ h3 {
   }
   #mySecondDiv i {
     font-size: 30px;
+    color: #fff;
   }
 
   #mySecondDiv #order {
